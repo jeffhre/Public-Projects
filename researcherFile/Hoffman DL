@@ -1,0 +1,17 @@
+permeability 1
+transition 1
+pore 1
+controls 1
+cardiac 1
+mitochondrial 2
+maturation 1
+myocyte 1
+differentiation 1
+oxygen 2
+sensitivity 1
+reactive 1
+species 1
+generation 1
+depends 1
+metabolic 1
+conditions 1

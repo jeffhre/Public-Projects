@@ -1,0 +1,17 @@
+thin 1
+shell 1
+high 1
+velocity 1
+inertial 1
+confinement 1
+fusion 1
+implosions 2
+national 2
+ignition 2
+facility 2
+measurements 1
+ablatorgas 1
+atomic 1
+mix 1
+indirectly 1
+driven 1

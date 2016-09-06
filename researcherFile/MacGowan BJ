@@ -1,0 +1,11 @@
+thin 1
+shell 1
+high 1
+velocity 1
+inertial 1
+confinement 1
+fusion 1
+implosions 1
+national 1
+ignition 1
+facility 1

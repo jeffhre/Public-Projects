@@ -1,0 +1,13 @@
+model 1
+selection 2
+inference 1
+censored 1
+lifetime 1
+medical 1
+expenditures 1
+variable 1
+presence 1
+missing 1
+data 1
+resampling 1
+imputation 1
